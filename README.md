@@ -105,17 +105,17 @@ These measures enable dynamic analysis across different filters, categories, cus
 ```text
 Ecommerce-Sales-Performance-Analytics/
 │
-├── Ecommerce-Sales-Performance-Analytics-PBIP/
+├── Ecommerce Sales Performance Analytics PBIP Files/
 │   └── Power BI Project Files
 │
-├── Ecommerce-Sales-Performance-Analytics-PBIX/
+├── Ecommerce Sales Performance Analytics PBIX Files/
 │   └── Power BI Desktop File
 │
-├── Ecommerce-Sales-Performance-Analytics-Data/
+├── Ecommerce Sales Performance Analytics Data/
 │   └── Source Dataset
 │
-└── Ecommerce-Sales-Performance-Analytics-PDF/
-    └── Dashboard PDF
+└── Ecommerce-Sales-Performance-Analytics.pdf
+    
 ```
 
 ---
