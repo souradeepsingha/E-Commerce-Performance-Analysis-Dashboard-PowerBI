@@ -1,6 +1,6 @@
-# 📊 E-commerce-Performance-Analysis| Power BI
+# 📊 E-commerce-Performance-Analysis-Dashboard| Power BI
 
-An interactive **E-commerce-Performance-Analysis** developed using **Power BI** to analyze sales, customers, products, orders, profitability, discounts, and delivery performance. The dashboard transforms raw business data into meaningful insights through interactive visualizations, KPIs, filters, and trend analysis.
+An interactive **E-commerce-Performance-Analysis-Dashboard** developed using **Power BI** to analyze sales, customers, products, orders, profitability, discounts, and delivery performance. The dashboard transforms raw business data into meaningful insights through interactive visualizations, KPIs, filters, and trend analysis.
 
 ---
 
